@@ -1,4 +1,4 @@
-# Criptos_Info-react-vite
+# Crypto_Info-react-vite
 
 ## Index
 
