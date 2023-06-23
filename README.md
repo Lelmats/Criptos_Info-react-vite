@@ -2,4 +2,4 @@
 
 ## Index
 
-![INDEXPNG](public/imagen-criptos.png)
+![INDEXPNG](public/Control_Crypto.png)
